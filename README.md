@@ -1,6 +1,6 @@
 # Kalm Support
 
-## This is the only official place for Kalm bug reports and feature requests.
+### This is the only official place for Kalm bug reports and feature requests.
 
 1. Try disabling all Tweaks except Kalm in iCleaner to check if there is a conflicting tweak, if that does not help try removing the Kalm preferences file *hi.my.name.is.ubik.kalm.plist* in */var/mobile/Library/Preferences* and respring.
 
