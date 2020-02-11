@@ -30,10 +30,10 @@ If applicable, add screenshots to help explain your problem.
 **Device language:**
 
 **Tweak list:**
-Put it on pastebin.com
+Put it on www.pastebin.com
 
 **Crashlog:**
-Put it on pastebin.com
+Put it on www.pastebin.com
 
 **Additional context**
 Add any other context about the problem here.
