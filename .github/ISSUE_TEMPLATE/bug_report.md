@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Packix Username:***
+Your Packix username
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -35,5 +38,5 @@ Put it on www.pastebin.com
 **Crashlog:**
 Put it on www.pastebin.com
 
-**Additional context**
-Add any other context about the problem here.
+**Additional context:**
+Add any other context about the problem
