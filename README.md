@@ -15,3 +15,5 @@
 6. Please search for [already existing](https://github.com/himynameisubik/Kalm-support/issues) and [closed issues](https://github.com/himynameisubik/Kalm-support/issues?q=is%3Aissue+is%3Aclosed) before opening a new one.
 
 7. If there is no issue with your request yet, [create a new issue here](https://github.com/himynameisubik/Kalm-support/issues/new/choose).
+
+#### If you are using XenHTML make sure to disable the "Hide Lockscreen Clock" option.
