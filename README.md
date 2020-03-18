@@ -4,9 +4,9 @@
 
 1. Make sure to manually add a location to your Weather app. Don't worry it will still take your location services location if you have it enabled. *If you are using an iPad with iPad OS please make sure to use the Weather Widget to have the Kalm weather option working properly!*
 
-2. Try reinstalling the stock Weather app from Apple.
+2. Try (re-)installing the stock Weather app from Apple.
 
-3. Try reinstalling the stock Calendar app from Apple.
+3. Try (re-)installing the stock Calendar app and Reminders app from Apple.
 
 4. Try disabling all Tweaks except Kalm in iCleaner to check if there is a conflicting tweak.
 
