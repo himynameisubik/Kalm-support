@@ -13,6 +13,9 @@ Your Packix username
 **Installed version:**
 Current version of Kalm
 
+**Jailbreak:**
+Your jailbreak (unc0ver, checkra1n)
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
