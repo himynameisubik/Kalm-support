@@ -19,7 +19,7 @@ Put it on www.pastebin.com.
 
 File location: _/var/mobile/Library/Preferences_ File name: _hi.my.name.is.ubik.kalm.plist_
 
----
+
 
 Device information:
 ===
@@ -30,7 +30,7 @@ Device information:
 
 **Jailbreak:**
 
----
+
 
 Bug description:
 ===
