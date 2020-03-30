@@ -7,14 +7,33 @@ assignees: ''
 
 ---
 
-**Packix Username:**
-Your Packix username
+General information:
+===
 
-**Installed version:**
-Current version of Kalm
+**Packix username:**
+
+**Kalm version:**
+
+**Kalm preferences file:**
+Put it on www.pastebin.com.
+
+File location: _/var/mobile/Library/Preferences_ File name: _hi.my.name.is.ubik.kalm.plist_
+
+---
+
+Device information:
+===
+
+**iOS version and language:**
+
+**Device:**
 
 **Jailbreak:**
-Your jailbreak (unc0ver, checkra1n)
+
+---
+
+Bug description:
+===
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -32,17 +51,11 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**iOS Version:**
-
-**Device:**
-
-**Device language:**
+Additional information:
+===
 
 **Tweak list:**
 Put it on www.pastebin.com
 
 **Crashlog:**
 Put it on www.pastebin.com
-
-**Additional context:**
-Add any other context about the problem
