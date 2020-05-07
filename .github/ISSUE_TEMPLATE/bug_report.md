@@ -10,14 +10,12 @@ assignees: ''
 General information:
 ===
 
-**Packix username:**
-
 **Kalm version:**
 
 **Kalm preferences file:**
 Put it on www.pastebin.com.
 
-File location: _/var/mobile/Library/Preferences_ File name: _hi.my.name.is.ubik.kalm.plist_
+- File location: _/var/mobile/Library/Preferences_ File name: _hi.my.name.is.ubik.kalm.plist_
 
 
 
