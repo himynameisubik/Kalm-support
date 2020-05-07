@@ -3,7 +3,7 @@ Kalm Support
 
 ### This is the only official place for Kalm bug reports and feature requests.
 
-**Due to the current situation, feature requests are on a temporary hold.**
+## General steps to try before creating an issue
 
 1. Make sure to manually add a location to your Weather app. Don't worry it will still take your location services location if you have it enabled. *If you are using an iPad with iPad OS please make sure to use the Weather Widget to have the Kalm weather option working properly!*
 
