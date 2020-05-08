@@ -7,7 +7,4 @@ assignees: ''
 
 ---
 
-**Packix Username:***
-Your Packix username
-
 **Request:**
