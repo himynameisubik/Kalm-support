@@ -11,7 +11,7 @@ Kalm Support
 
 3. Try (re-)installing the stock Calendar app and Reminders app from Apple.
 
-4. Try disabling all Tweaks except Kalm in iCleaner to check if there is a conflicting tweak.
+4. Try disabling **all** (not only LS) Tweaks except Kalm in iCleaner to check if there is a conflicting tweak.
 
 5. Try removing the Kalm preferences file *hi.my.name.is.ubik.kalm.plist* in */var/mobile/Library/Preferences* and respring.
 
