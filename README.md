@@ -1,7 +1,7 @@
 Kalm Support
 ===
 
-### This is the only official place for Kalm bug reports and feature requests.
+### This is the only official place for Kalm bug reports.
 
 ## General steps to try before creating an issue
 
