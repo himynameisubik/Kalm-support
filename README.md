@@ -1,3 +1,7 @@
+### HOLIDAY SEASON
+Replies & fixes will be slightly delayed. Thanks for your understanding.
+
+
 Kalm Support
 ===
 
