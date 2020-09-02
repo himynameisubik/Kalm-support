@@ -2,7 +2,7 @@ Kalm Support
 ===
 
 ### This is the only official place for Kalm bug reports.
-Feature requests have been put on hold and won't be accepted for now.
+Feature requests have been put on hold.
 
 ## General steps to try before creating an issue
 
