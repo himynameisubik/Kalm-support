@@ -8,13 +8,13 @@ Feature requests have been put on hold.
 
 1. Make sure you have installed the stock Weather, Calendar and Reminders app from Apple.
 
-2. Try to reinstall Kalm.
- 
-3. Try (re-)installing the stock Weather, Calendar and Reminders app from Apple.
+2. Reinstall the stock Weather, Calendar and/or Reminders app from the App Store.
 
-4. Make sure to manually add a location to your Weather app. Don't worry it will still take your location services location if you have it enabled. *If you are using an iPad with iPad OS please make sure to use the Weather Widget to have the Kalm weather option working properly!* If you're using location services for the weather, make sure to enable it for App (iOS 14: & Widgets) here: ```Settings → Privacy → Location Services → Weather → While using the App (iOS 14: or Widgets)```
+4. Make sure to manually add a location to your Weather app. Don't worry it will still take your location services location if you have it enabled. If you're using location services for the weather, make sure to enable it for App (iOS 14: & Widgets) here: ```Settings → Privacy → Location Services → Weather → While using the App (iOS 14: or Widgets)``` <br />*If you are using an iPad with iPad OS please make sure to use the Weather Widget to have the Kalm weather option working properly!* 
 
-5. Try disabling **<ins>all(!)</ins>** (not only lockscreen) Tweaks except Kalm in iCleaner to check if there is a conflicting tweak.
+3. Reinstall the latest version of Kalm from [Chariz](https://chariz.com/buy/kalm).
+
+5. Try disabling <span style="padding: 5px; background-color: #FFFF00; font-weight: bold;">all(!)</span> (not only lockscreen) Tweaks except Kalm in iCleaner to check if there is a conflicting tweak.
 
 6. Try removing the Kalm preferences file ```hi.my.name.is.ubik.kalm.plist``` in ```/var/mobile/Library/Preferences``` and respring.
 
