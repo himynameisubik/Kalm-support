@@ -10,15 +10,15 @@ Feature requests have been put on hold.
 
 2. Reinstall the stock Weather, Calendar and/or Reminders app from the App Store.
 
-4. Make sure to manually add a location to your Weather app. Don't worry it will still take your location services location if you have it enabled. If you're using location services for the weather, make sure to enable it for App (iOS 14: & Widgets) here: ```Settings → Privacy → Location Services → Weather → While using the App (iOS 14: or Widgets)``` <br />*If you are using an iPad with iPad OS please make sure to use the Weather Widget to have the Kalm weather option working properly!* 
+4. Make sure to manually add a location to your Weather app. Don't worry it will still take your location services location if you have it enabled. If you're using location services for the weather, make sure to enable it for App (iOS 14: & Widgets) here:<br /> ```Settings → Privacy → Location Services → Weather → While using the App (iOS 14: or Widgets)``` <br /><br />*If you are using an iPad with iPad OS please make sure to use the Weather Widget to have the Kalm weather option working properly!* 
 
 3. Reinstall the latest version of Kalm from [Chariz](https://chariz.com/buy/kalm).
 
-5. Try disabling <ins>all (!)</ins> Tweaks except Kalm in iCleaner to check if there is a conflicting tweak.
+5. Try disabling **all (!)** Tweaks except Kalm in iCleaner to check if there is a conflicting tweak.
 
 6. Try removing the Kalm preferences file ```hi.my.name.is.ubik.kalm.plist``` in ```/var/mobile/Library/Preferences``` and respring.
 
-7. Try re-jailbreaking.
+7. Try restarting your device and jailbreak again.
 
 8. Please search for [already existing](https://github.com/himynameisubik/Kalm-support/issues) and [closed issues](https://github.com/himynameisubik/Kalm-support/issues?q=is%3Aissue+is%3Aclosed) before opening a new one and provide your information there.
 
