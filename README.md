@@ -14,7 +14,7 @@ Feature requests have been put on hold.
 
 3. Reinstall the latest version of Kalm from [Chariz](https://chariz.com/buy/kalm).
 
-5. Try disabling <span style="padding: 5px; background-color: #FFFF00; font-weight: bold;">all(!)</span> (not only lockscreen) Tweaks except Kalm in iCleaner to check if there is a conflicting tweak.
+5. Try disabling <ins>all (!)</ins> Tweaks except Kalm in iCleaner to check if there is a conflicting tweak.
 
 6. Try removing the Kalm preferences file ```hi.my.name.is.ubik.kalm.plist``` in ```/var/mobile/Library/Preferences``` and respring.
 
