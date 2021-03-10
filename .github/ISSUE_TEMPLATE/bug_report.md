@@ -58,4 +58,4 @@ Additional information:
 Put it on www.pastebin.com
 
 **Crashlog:**
-Put it on www.pastebin.com
+If applicable, put it on www.pastebin.com
