@@ -4,13 +4,15 @@ Kalm Support
 ### This is the only official place for Kalm bug reports.
 Feature requests have been put on hold.
 
+### LOCATION SERVICES BASED WEATHER UPDATES DO CURRENTLY NOT WORK ON iOS 14: https://github.com/himynameisubik/Kalm-support/issues/245
+
 ## Things to try before creating an issue report
 
 1. Make sure you have installed the stock Weather, Calendar and Reminders app from Apple.
 
 2. Reinstall the stock Weather, Calendar and/or Reminders app from the App Store.
 
-4. Make sure to manually add a location to your Weather app. Don't worry it will still take your location services location if you have it enabled. If you're using location services for the weather, make sure to enable it for App (iOS 14: & Widgets) here:<br /> ```Settings → Privacy → Location Services → Weather → While using the App (iOS 14: or Widgets)``` <br /><br />*If you are using an iPad with iPad OS please make sure to use the Weather Widget to have the Kalm weather option working properly!* 
+4. Make sure to manually add a location to your Weather app. Don't worry it will still take your location services location if you have it enabled. If you're using location services for the weather, make sure to enable it for App here:<br /> ```Settings → Privacy → Location Services → Weather → While using the App``` <br /><br />*If you are using an iPad with iPad OS please make sure to use the Weather Widget to have the Kalm weather option working properly!*
 
 3. Reinstall the latest version of Kalm from [Chariz](https://chariz.com/buy/kalm).
 
