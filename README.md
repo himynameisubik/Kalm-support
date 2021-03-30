@@ -1,12 +1,11 @@
 Kalm Support
 ===
 
-### This is the only official place for Kalm bug reports.
-Feature requests have been put on hold.
+The Kalm GitHub Bug Tracker is closed. Replying on multiple channels such as email, Twitter, Reddit and GitHub is not feasible. Sorry for the inconvenience. Please use the guide below if you need help with Kalm or want to report an issue.
 
-### LOCATION SERVICES BASED WEATHER UPDATES DO CURRENTLY NOT WORK ON iOS 14: https://github.com/himynameisubik/Kalm-support/issues/245
+### Current known issue: Location based weather is currently not working well on iOS14. Adding the weather widget to your homescreen or widgets page helps this. The issue is being investigated.
 
-## Things to try before creating an issue report
+## Things to try
 
 1. Make sure you have installed the stock Weather, Calendar and Reminders app from Apple.
 
@@ -22,6 +21,4 @@ Feature requests have been put on hold.
 
 7. Try restarting your device and jailbreak again.
 
-8. Please search for [already existing](https://github.com/himynameisubik/Kalm-support/issues) and [closed issues](https://github.com/himynameisubik/Kalm-support/issues?q=is%3Aissue+is%3Aclosed) before opening a new one and provide your information there.
-
-9. If there is no issue with your request yet, [create a new issue here](https://github.com/himynameisubik/Kalm-support/issues/new/choose).
+8. If none of the above things help, please send an email to cydia[at]ubikstyl.es
