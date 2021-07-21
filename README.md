@@ -1,7 +1,7 @@
 Kalm Support
 ===
 
-The Kalm GitHub Bug Tracker is closed. Replying on multiple channels such as email, Twitter, Reddit and GitHub is not feasible. Sorry for the inconvenience. Please use the guide below if you need help with Kalm or want to report an issue. The upcoming version of Kalm – 3.0.4 – will provide a simple way to report an issue via it's settings.
+The Kalm GitHub Bug Tracker is closed. Replying on multiple channels such as email, Twitter, Reddit and GitHub is not feasible. Sorry for the inconvenience. Please use the guide below if you need help with Kalm or want to report an issue. 
 
 ### Current known issue: Location based weather & nightly weather is currently not working well on iOS14. The issue is being investigated but will likely take some time until it's fixed. Sorry for the inconvenience.
 
